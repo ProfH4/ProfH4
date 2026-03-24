@@ -1,15 +1,11 @@
 # ProfH4
 
-<table>
-  <tr>
-    <td valign="middle" style="font-size: 36px; font-weight: bold; padding-right: 24px; white-space: nowrap;">
-      道はただ一つ躾です
-    </td>
-    <td valign="middle">
-      <img src="logo_ProfH4.png" alt="ProfH4 logo" width="220">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 24px;">
+  <div style="font-size: 36px; font-weight: bold; white-space: nowrap;">
+    道はただ一つ躾です
+  </div>
+  <img src="logo_ProfH4.png" alt="ProfH4 logo" width="220">
+</div>
 
 **Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
 
