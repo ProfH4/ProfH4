@@ -6,7 +6,11 @@
 
 > 道はただ一つ躾です
 
-[Website](https://www.profh4.com)
+**Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
+
+- [Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
+- [Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
+- [Teams](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
 
 ## About
 
@@ -66,19 +70,13 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 
 - [Lean Manga](https://www.slideshare.net/Javier_Villalba_Diez/)
 - [Music](https://www.youtube.com/playlist?list=PLJxGBaypD2P0fNF-UyInvA2stHUF1uvKj)
-- Drawings
+- [Drawings](https://photos.app.goo.gl/uLT1bMATQVg7WftT8)
 
 ## Research
 
 - [GitHub Scholar Download](https://github.com/ProfH4/Published_Research)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=6jlFHoEAAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Javier-Villalba-Diez)
-
-**Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
-
-- [Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
-- [Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
-- [Teams](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
 
 ### 2026
 
