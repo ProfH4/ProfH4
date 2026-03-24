@@ -2,7 +2,7 @@
 
 <table> <tr> <td valign="middle" style="font-size: 60px; font-weight: bold; 
                padding-right: 40px; white-space: nowrap;"> 
-  道はただ一つ躾です </td> <td valign="middle"> <img src="logo_ProfH4.png" alt="ProfH4 logo" width="300"> 
+  道はただ一つ躾です </td> <td valign="middle"> <img src="logo_ProfH4.png" alt="ProfH4 logo" width="220"> 
   </td> </tr> 
 </table>
 
