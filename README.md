@@ -1,8 +1,6 @@
 # ProfH4
 
-<p align="center">
-  ![Image](logo_ProfH4.png)
-</p>
+![ProfH4 logo](logo_ProfH4.png)
 
 > 道はただ一つ躾です
 
