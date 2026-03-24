@@ -1,7 +1,7 @@
 # ProfH4
 
 <p align="center">
-  <img src="https://www.profh4.com/images/j/logo_simetric_2.001-copy-1148.png" alt="ProfH4 logo" width="220">
+  [Image](logo_ProfH4.png)
 </p>
 
 > 道はただ一つ躾です
