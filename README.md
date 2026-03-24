@@ -80,16 +80,6 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
 - [Teams](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
 
-## Short CV
-
-Dr. Javier Villalba-Diez is a distinguished expert with the unique accomplishment of holding two PhDs from the Universidad Politécnica de Madrid (UPM)—both awarded for excellence as the best doctoral theses in their fields. His first PhD in Engineering, Economics, and Organizational Innovation (2016) focuses on Strategic Organizational Design, while his second PhD in Quantum Computational Applications for Industry 4.0 (2022) underscores his cutting-edge expertise in future-ready technologies.
-
-Driven by a mission to empower individuals and organizations to achieve strategic goals while building trust, Dr. Villalba-Diez is a Mechanical Engineer from Technische Universität München and an Industrial Engineer from UPM (2003). Over the past 20 years, he has served as a professor, consultant, and production manager in German, American, and Japanese manufacturing environments, applying his deep technical and strategic knowledge to real-world challenges.
-
-His research interests span transformative areas such as Quantum Computing, Deep Learning, Hoshin Kanri, Strategic Organizational Design, and Business AI. Dr. Villalba-Diez’s work takes him around the globe, collaborating with companies and visiting hundreds of factories to test innovative ideas and share valuable insights.
-
-With his dual PhDs and extensive global experience, he continues to push the boundaries of industry and technology, dividing his time between Germany, the USA, Japan, and Spain.
-
 ### 2026
 
 - Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordeires-Meré, J. (2026) Fractal photonic crystals with controlled disorder for robust 3D-integrated on-chip quantum mode localization. *Optical and Quantum Electronics* 58, 166. [https://doi.org/10.1007/s11082-026-08741-3](https://doi.org/10.1007/s11082-026-08741-3)
