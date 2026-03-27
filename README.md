@@ -1,3 +1,5 @@
+[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=YOUR_GOOGLE_SCHOLAR_ID)](https://scholar.google.com/citations?user=6jlFHoEAAAAJ)
+
 # ProfH4
 
 <table> <tr> <td valign="middle" style="font-size: 36px; font-weight: bold; 
