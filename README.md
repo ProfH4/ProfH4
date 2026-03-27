@@ -78,6 +78,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [Drawings](https://photos.app.goo.gl/uLT1bMATQVg7WftT8)
 
 ## Research
+[![Google Scholar Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=6jlFHoEAAAAJ)](https://scholar.google.com/citations?user=6jlFHoEAAAAJ&hl=en)
 
 - [GitHub Scholar Download](https://github.com/ProfH4/Published_Research)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=6jlFHoEAAAAJ)
