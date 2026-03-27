@@ -1,11 +1,19 @@
-[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=YOUR_GOOGLE_SCHOLAR_ID)](https://scholar.google.com/citations?user=6jlFHoEAAAAJ)
-
 # ProfH4
 
-<table> <tr> <td valign="middle" style="font-size: 36px; font-weight: bold; 
-               padding-right: 24px; white-space: nowrap;"> 
-  道はただ一つ躾です </td> <td valign="middle"> <img src="logo_ProfH4.png" alt="ProfH4 logo" width="180"> 
-  </td> </tr> 
+<table>
+  <tr>
+    <td valign="middle" style="font-size: 36px; font-weight: bold; padding-right: 24px; white-space: nowrap;">
+      道はただ一つ躾です
+    </td>
+    <td valign="middle" style="padding-right: 20px;">
+      <img src="logo_ProfH4.png" alt="ProfH4 logo" width="180">
+    </td>
+    <td valign="top" align="right">
+      <a href="https://scholar.google.com/citations?user=6jlFHoEAAAAJ&hl=en">
+        <img src="https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=6jlFHoEAAAAJ" alt="Google Scholar">
+      </a>
+    </td>
+  </tr>
 </table>
 
 **Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
