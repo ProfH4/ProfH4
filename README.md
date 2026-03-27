@@ -8,11 +8,6 @@
     <td valign="middle" style="padding-right: 20px;">
       <img src="logo_ProfH4.png" alt="ProfH4 logo" width="180">
     </td>
-    <td valign="top" align="right">
-      <a href="https://scholar.google.com/citations?user=6jlFHoEAAAAJ&hl=en">
-        <img src="https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=6jlFHoEAAAAJ" alt="Google Scholar">
-      </a>
-    </td>
   </tr>
 </table>
 
