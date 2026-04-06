@@ -52,7 +52,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [Press release Germany. Quantum Computation Scientific Reports (07.22)](https://idw-online.de/de/news799017)
 - [Interview Goethe Institut Madrid (02.23)](https://www.goethe.de/ins/es/es/sta/mad/ueb/jub/jvd.html)
 - [Local Newspaper Germany. Haller Tagblatt. Bürger in Gefahr durch KI (03.23)](https://www.profh4.com/download/interview.pdf)
-- Hochschule Heilbronn. Keynote AI und Kunst. Klara und die Sonne. (11.23)
+- [Hochschule Heilbronn. Keynote AI und Kunst. Klara und die Sonne. (11.23)](https://www.hs-heilbronn.de/de/erfolgreicher-start)
 - [Local Newspaper Germany. Haller Tagblatt. Der Mensch steuerbar (03.24)](https://www.profh4.com/download/01_03_24_sh_hall.2_17.pdf)
 - [Interview Schwatz und Weis (04.24)](https://www.youtube.com/watch?v=kyS9e0wCQJo)
 - [Interview Best Doctoral Tesis Prize Universidad Politécnica de Madrid (03.24)](https://www.upm.es/UPM/SalaPrensa/Noticias?fmt=detail&id=CON11967&prefmt=articulo)
