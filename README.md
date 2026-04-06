@@ -6,7 +6,7 @@
       道はただ一つ躾です
     </td>
     <td valign="middle" style="padding-right: 20px;">
-      <img src="logo_ProfH4.png" alt="ProfH4 logo" width="180">
+      <img src="logo_ProfH4.gif" alt="ProfH4 logo" width="180">
     </td>
   </tr>
 </table>
