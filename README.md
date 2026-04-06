@@ -37,7 +37,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 
 ### Books
 
-- [The Hoshin Kanri Forest]([https://www.profh4.com/images/e/hoshinkanriforest-292.jpg](https://www.amazon.com/Hoshin-Kanri-Forest-Strategic-Organizational/dp/1498785506/)
+- [The Hoshin Kanri Forest](https://www.amazon.com/Hoshin-Kanri-Forest-Strategic-Organizational/dp/1498785506/)
 - [The Lean Brain Theory](https://www.amazon.com/Lean-Brain-Theory-Networked-Organizational/dp/1138069272/)
 - [Sense and Respond: Industrial Applications of Smart Sensors in Cyber-Physical Systems](https://www.amazon.de/-/en/Sense-Respond-Industrial-Applications-Cyber-Physical/dp/3036538143)
 - [JIDOKA. Integration of Human and AI within Industry 4.0 Cyber Physical Manufacturing Systems](https://www.amazon.de/-/en/JIDOKA-Integration-Industry-Physical-Manufacturing/dp/3036538127)
