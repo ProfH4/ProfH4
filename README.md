@@ -43,7 +43,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [JIDOKA. Integration of Human and AI within Industry 4.0 Cyber Physical Manufacturing Systems](https://www.amazon.de/-/en/JIDOKA-Integration-Industry-Physical-Manufacturing/dp/3036538127)
 - [Quantum Computation in Industry 4.0 Cyber-Physical Systems (doctoral thesis)](https://profh4.com/download/2022-phd_thesis_quantum_computation_in_industry_4_0_cyber_physical_systems___h4_compressed%20(1).pdf)
 - [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis)](https://profh4.com/download/2016-final-doctoral-thesis.pdf)
-- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0]([https://amzn.eu/d/02JAIPx5)
+- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://amzn.eu/d/02JAIPx5)
 
 ### Media Buzz
 
