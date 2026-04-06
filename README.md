@@ -32,10 +32,8 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 ## Current Projects
 
 - [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
-
-## Stuff
-
-### Books
+  
+## Books
 
 - [The Hoshin Kanri Forest](https://www.amazon.com/Hoshin-Kanri-Forest-Strategic-Organizational/dp/1498785506/)
 - [The Lean Brain Theory](https://www.amazon.com/Lean-Brain-Theory-Networked-Organizational/dp/1138069272/)
@@ -45,7 +43,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis)](https://profh4.com/download/2016-final-doctoral-thesis.pdf)
 - [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://amzn.eu/d/02JAIPx5)
 
-### Media Buzz
+## Media Buzz
 
 - [Local Newspaper Germany. Haller Tagblatt. Vorstellung H4 (11.18)](https://www.profh4.com/haller_tagblatt.html)
 - [Local Newspaper Germany. Haller Tagblatt. eLearning Angebot (03.20)](https://www.profh4.com/covid-19-elearning-angebot.html)
@@ -70,14 +68,14 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [HHN. Warum Einstein für das Quanteninternet entscheidend bleibt (01.26)](https://www.hs-heilbronn.de/de/blog-or-warum-einstein-fuer-das-quanteninternet-entscheidend-bleibt-cddab1ac2e7ccc3b)
 - [Madrid+d. Internet cuántico fiable (01.26)](https://www.madrimasd.org/notiweb/noticias/internet-cuantico-fiable-en-un-mundo-en-movimiento)
 
-### Feats
+## Feats
 
 - [Best Doctoral Thesis (01.18)](https://www.escuelaindustrialesupm.com/etsii-upm/javier-villalba-diez-recibe-el-premio-extraordinario-de-tesis-doctoral-por-la-universidad-politecnica-de-madrid/)
 - Chess ELO 2090 (10.18)
 - [Public Awards](https://www.youtube.com/playlist?list=PLJxGBaypD2P3cDnuBBHKjhZG7w2EFfPmd)
 - [Best Doctoral Thesis (01.24)](https://youtu.be/lznCqRtA6TE?feature=shared&t=5905)
 
-### Art
+## Art
 
 - [Lean Manga](https://www.slideshare.net/Javier_Villalba_Diez/)
 - [Music](https://www.youtube.com/playlist?list=PLJxGBaypD2P0fNF-UyInvA2stHUF1uvKj)
