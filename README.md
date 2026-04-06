@@ -36,9 +36,9 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - [The Lean Brain Theory](https://www.profh4.com/images/p/leanbraintheory-288.jpeg)
 - [Sense and Respond: Industrial Applications of Smart Sensors in Cyber-Physical Systems](https://www.profh4.com/images/v/screenshot-2023-02-23-at-10.09.50-302.jpg)
 - [JIDOKA. Integration of Human and AI within Industry 4.0 Cyber Physical Manufacturing Systems](https://www.profh4.com/images/p/screenshot-2023-02-23-at-10.09.23-312.jpg)
-- [Quantum Computation in Industry 4.0 Cyber-Physical Systems](https://www.profh4.com/images/j/2_doktorarbeit-302.jpg)
-- [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis cover)](https://www.profh4.com/images/r/screenshot-2025-11-07-at-16.46.45-312.jpg)
-- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://www.profh4.com/images/4/screenshot-2026-03-08-at-20.51.04-306.jpg)
+- [Quantum Computation in Industry 4.0 Cyber-Physical Systems (doctoral thesis)]([https://www.profh4.com/images/j/2_doktorarbeit-302.jpg](https://profh4.com/download/2022-phd_thesis_quantum_computation_in_industry_4_0_cyber_physical_systems___h4_compressed%20(1).pdf)
+- [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis)]([https://www.profh4.com/images/r/screenshot-2025-11-07-at-16.46.45-312.jpg](https://profh4.com/download/2016-final-doctoral-thesis.pdf)
+- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0]([https://amzn.eu/d/02JAIPx5)
 
 ### Media Buzz
 
