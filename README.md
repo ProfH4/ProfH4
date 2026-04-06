@@ -13,13 +13,11 @@
 
 **Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
 
+## Useful links
+
 - [YouTube channel - Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
 - [Github - Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
 - [Teams - Lectures live](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
-
-## Current Projects
-
-- [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
 
 ## About
 
@@ -30,6 +28,10 @@ Driven by a mission to empower individuals and organizations to achieve strategi
 His research interests span transformative areas such as Quantum Computing, Deep Learning, Hoshin Kanri, Strategic Organizational Design, and Business AI. Dr. Villalba-Diez’s work takes him around the globe, collaborating with companies and visiting hundreds of factories to test innovative ideas and share valuable insights.
 
 With his dual PhDs and extensive global experience, he continues to push the boundaries of industry and technology, dividing his time between Germany, the USA, Japan, and Spain.
+
+## Current Projects
+
+- [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
 
 ## Stuff
 
