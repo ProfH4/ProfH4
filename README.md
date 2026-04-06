@@ -16,6 +16,7 @@
 - [Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
 - [Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
 - [Teams](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
+- [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
 
 ## About
 
