@@ -13,9 +13,12 @@
 
 **Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez**
 
-- [Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
-- [Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
-- [Teams](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
+- [YouTube channel - Lecture Videos](https://www.youtube.com/channel/UCgnDewnaQALnYLM4GYUS5CA/playlists)
+- [Github - Lecture Notes](https://github.com/ProfH4/Lecture_Notes)
+- [Teams - Lectures live](https://teams.microsoft.com/meet/369425254456072?p=2rX3ofeSkjOJKBTBPQ)
+
+## Current Projects
+
 - [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
 
 ## About
