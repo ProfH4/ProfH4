@@ -90,6 +90,7 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 
 ### 2026
 
+- Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordieres-Meré, J. (2026) Squid–transmon quantum hardware simulation with deep learning for pancreatic radiotherapy image classification. Quantum Inf Process 25, 138. [https://doi.org/10.1007/s11128-026-05144-x](https://doi.org/10.1007/s11128-026-05144-x)
 - Villalba-Díez, J., Nuber, C., Ordieres-Meré, J. (2026) Curvature-coupled triangulated relativistic quantum computation: entanglement equilibrium, geometry registers, and discrete curvature-response relations. *Quantum Studies: Mathematics Foundations* 13, 21. [https://doi.org/10.1007/s40509-026-00396-9](https://doi.org/10.1007/s40509-026-00396-9)
 - Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordeires-Meré, J. (2026) Fractal photonic crystals with controlled disorder for robust 3D-integrated on-chip quantum mode localization. *Optical and Quantum Electronics* 58, 166. [https://doi.org/10.1007/s11082-026-08741-3](https://doi.org/10.1007/s11082-026-08741-3)
 - **BOOK.** Villalba-Díez J and Ordieres-Meré J (2026). [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://amzn.eu/d/02JAIPx5). Hardcover, English edition, 21 April 2026.
