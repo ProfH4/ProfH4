@@ -2,11 +2,14 @@
 
 <table>
   <tr>
+    <td valign="middle" style="padding-right: 20px;">
+      <img src="HHN_Sticker%20PDF%20geringere%20Auflo%CC%88sung.jpg" alt="HHN sticker" height="180">
+    </td>
     <td valign="middle" style="font-size: 36px; font-weight: bold; padding-right: 24px; white-space: nowrap;">
       道はただ一つ躾です
     </td>
     <td valign="middle" style="padding-right: 20px;">
-      <img src="logo_ProfH4.gif" alt="ProfH4 logo" width="180">
+      <img src="logo_ProfH4.gif" alt="ProfH4 logo" height="180">
     </td>
   </tr>
 </table>
