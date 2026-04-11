@@ -35,54 +35,6 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 ## Current Projects
 
 - [HyQCA -- Quantencomputing und hybride Quanten-Klassik-Architekturen im Schwerpunktbereich Digitale Lifeworlds & Health](https://github.com/ProfH4/HyQCA)
-  
-## Books
-
-- [The Hoshin Kanri Forest](https://www.amazon.com/Hoshin-Kanri-Forest-Strategic-Organizational/dp/1498785506/)
-- [The Lean Brain Theory](https://www.amazon.com/Lean-Brain-Theory-Networked-Organizational/dp/1138069272/)
-- [Sense and Respond: Industrial Applications of Smart Sensors in Cyber-Physical Systems](https://www.amazon.de/-/en/Sense-Respond-Industrial-Applications-Cyber-Physical/dp/3036538143)
-- [JIDOKA. Integration of Human and AI within Industry 4.0 Cyber Physical Manufacturing Systems](https://www.amazon.de/-/en/JIDOKA-Integration-Industry-Physical-Manufacturing/dp/3036538127)
-- [Quantum Computation in Industry 4.0 Cyber-Physical Systems (doctoral thesis)](https://profh4.com/download/2022-phd_thesis_quantum_computation_in_industry_4_0_cyber_physical_systems___h4_compressed%20(1).pdf)
-- [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis)](https://profh4.com/download/2016-final-doctoral-thesis.pdf)
-- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://amzn.eu/d/02JAIPx5)
-
-## Media Buzz
-
-- [Local Newspaper Germany. Haller Tagblatt. Vorstellung H4 (11.18)](https://www.profh4.com/haller_tagblatt.html)
-- [Local Newspaper Germany. Haller Tagblatt. eLearning Angebot (03.20)](https://www.profh4.com/covid-19-elearning-angebot.html)
-- [Press release Germany. Quantum Computation Scientific Reports (07.22)](https://idw-online.de/de/news799017)
-- [Interview Goethe Institut Madrid (02.23)](https://www.goethe.de/ins/es/es/sta/mad/ueb/jub/jvd.html)
-- [Local Newspaper Germany. Haller Tagblatt. Bürger in Gefahr durch KI (03.23)](https://www.profh4.com/download/interview.pdf)
-- [Hochschule Heilbronn. Keynote AI und Kunst. Klara und die Sonne. (11.23)](https://www.hs-heilbronn.de/de/erfolgreicher-start)
-- [Local Newspaper Germany. Haller Tagblatt. Der Mensch steuerbar (03.24)](https://www.profh4.com/download/01_03_24_sh_hall.2_17.pdf)
-- [Interview Schwatz und Weis (04.24)](https://www.youtube.com/watch?v=kyS9e0wCQJo)
-- [Interview Best Doctoral Tesis Prize Universidad Politécnica de Madrid (03.24)](https://www.upm.es/UPM/SalaPrensa/Noticias?fmt=detail&id=CON11967&prefmt=articulo)
-- [Local Newspaper Germany. Heilbronner Stimme. Quantum Computing (06.24)](https://www.profh4.com/download/202406_kommt-nach-dem-ki-park-auch-der-quantencomputer-in-die-region-heilbronn-stimme.de.pdf)
-- [Local Newspaper Germany. Heilbronner Stimme. Exzellenz Rückkehr (10.24)](https://www.stimme.de/heilbronn/stadt-heilbronn/professor-zu-sinkendem-niveau-brauchen-eine-rueckkehr-zu-einer-kultur-der-exzellenz-art-4972499)
-- [Local TV Germany. L-TV. Frederick Tag (10.24)](https://www.l-tv.de/mediathek/63941/Heilbronn_Landesweite_Leseaktion_laeuft.html)
-- [Volkshochschule Schwäbisch Hall. Brain Hacking (11.24)](https://www.profh4.com/download/20241017_brainhacking.pdf)
-- [HHN-Bildungscampus. Rhein-Neckar Zeitung. Brain Hacking (12.24)](https://www.profh4.com/download/20241212_rhein_neckar_zeitung_brain_hacking.pdf)
-- [Local TV Germany. L-TV. Brain Hacking (12.24)](https://www.l-tv.de/mediathek/64103/Heilbronn_Kuenstliche_Intelligenz_birgt_Risiken.html)
-- [Heilbronner Stimme. Quantum Computing ein Meilenstein. (12.24)](https://www.profh4.com/download/20241219_quantum-computing-heilbronn.pdf)
-- [HHN. Deep Learning by Hand (04.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/vorlesungsreihe-deep-learning-by-hand)
-- [HHN. Sex and Math (06.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/business-intelligence-kurs)
-- [HHN. Kinder? Ja / Nein. (06.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/mathematik-vorlesung-cart-entscheidungsbaeume-verstehen)
-- [Heilbronner Stimme. Quantum Computing und Medizintechnik. (06.25)](https://www.profh4.com/download/20250625_quantum-computing-heilbronn.pdf)
-- [HHN. Warum Einstein für das Quanteninternet entscheidend bleibt (01.26)](https://www.hs-heilbronn.de/de/blog-or-warum-einstein-fuer-das-quanteninternet-entscheidend-bleibt-cddab1ac2e7ccc3b)
-- [Madrid+d. Internet cuántico fiable (01.26)](https://www.madrimasd.org/notiweb/noticias/internet-cuantico-fiable-en-un-mundo-en-movimiento)
-
-## Feats
-
-- [Best Doctoral Thesis (01.18)](https://www.escuelaindustrialesupm.com/etsii-upm/javier-villalba-diez-recibe-el-premio-extraordinario-de-tesis-doctoral-por-la-universidad-politecnica-de-madrid/)
-- Chess ELO 2090 (10.18)
-- [Public Awards](https://www.youtube.com/playlist?list=PLJxGBaypD2P3cDnuBBHKjhZG7w2EFfPmd)
-- [Best Doctoral Thesis (01.24)](https://youtu.be/lznCqRtA6TE?feature=shared&t=5905)
-
-## Art
-
-- [Lean Manga](https://www.slideshare.net/Javier_Villalba_Diez/)
-- [Music](https://www.youtube.com/playlist?list=PLJxGBaypD2P0fNF-UyInvA2stHUF1uvKj)
-- [Drawings](https://photos.app.goo.gl/uLT1bMATQVg7WftT8)
 
 ## Research
 [![Google Scholar Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=6jlFHoEAAAAJ)](https://scholar.google.com/citations?user=6jlFHoEAAAAJ&hl=en)
@@ -182,3 +134,51 @@ With his dual PhDs and extensive global experience, he continues to push the bou
 - Villalba-Diez, J., Ordieres-Meré, J., Chudzick, H., Lopez-Rojo, P. (2015). NEMAWASHI: Attaining Value Stream alignment within Complex Organizational Networks. *Procedia CIRP*, 37, 134–139. [https://doi.org/10.1016/j.procir.2015.08.021](https://doi.org/10.1016/j.procir.2015.08.021)
 - Villalba-Diez, J., Ordieres-Meré, J., Alba-Elías, F., González-Marcos, A. (2015, July 6). PMO standardization through Hoshin Kanri Improving the Management of Projects by Process Management. *9th International Conference on Industrial Engineering and Industrial Management XXI International Conference on Industrial Engineering and Operations Management International IIE Conference 2015*, Aveiro, Portugal.
 - Villalba-Diez, J., Ordieres-Meré, J. (2015). Improving manufacturing operational performance by standardizing process management. *Transactions on Engineering Management*, 62(3), 351–360. [https://ieeexplore.ieee.org/document/7103303?arnumber=7103303](https://ieeexplore.ieee.org/document/7103303?arnumber=7103303)
+  
+## Books
+
+- [The Hoshin Kanri Forest](https://www.amazon.com/Hoshin-Kanri-Forest-Strategic-Organizational/dp/1498785506/)
+- [The Lean Brain Theory](https://www.amazon.com/Lean-Brain-Theory-Networked-Organizational/dp/1138069272/)
+- [Sense and Respond: Industrial Applications of Smart Sensors in Cyber-Physical Systems](https://www.amazon.de/-/en/Sense-Respond-Industrial-Applications-Cyber-Physical/dp/3036538143)
+- [JIDOKA. Integration of Human and AI within Industry 4.0 Cyber Physical Manufacturing Systems](https://www.amazon.de/-/en/JIDOKA-Integration-Industry-Physical-Manufacturing/dp/3036538127)
+- [Quantum Computation in Industry 4.0 Cyber-Physical Systems (doctoral thesis)](https://profh4.com/download/2022-phd_thesis_quantum_computation_in_industry_4_0_cyber_physical_systems___h4_compressed%20(1).pdf)
+- [Hoshin Kanri Forest: Lean Strategic Organizational Design (doctoral thesis)](https://profh4.com/download/2016-final-doctoral-thesis.pdf)
+- [Logistics for Engineers: Automatic Control, Network Science, and Industry 4.0](https://amzn.eu/d/02JAIPx5)
+
+## Media Buzz
+
+- [Local Newspaper Germany. Haller Tagblatt. Vorstellung H4 (11.18)](https://www.profh4.com/haller_tagblatt.html)
+- [Local Newspaper Germany. Haller Tagblatt. eLearning Angebot (03.20)](https://www.profh4.com/covid-19-elearning-angebot.html)
+- [Press release Germany. Quantum Computation Scientific Reports (07.22)](https://idw-online.de/de/news799017)
+- [Interview Goethe Institut Madrid (02.23)](https://www.goethe.de/ins/es/es/sta/mad/ueb/jub/jvd.html)
+- [Local Newspaper Germany. Haller Tagblatt. Bürger in Gefahr durch KI (03.23)](https://www.profh4.com/download/interview.pdf)
+- [Hochschule Heilbronn. Keynote AI und Kunst. Klara und die Sonne. (11.23)](https://www.hs-heilbronn.de/de/erfolgreicher-start)
+- [Local Newspaper Germany. Haller Tagblatt. Der Mensch steuerbar (03.24)](https://www.profh4.com/download/01_03_24_sh_hall.2_17.pdf)
+- [Interview Schwatz und Weis (04.24)](https://www.youtube.com/watch?v=kyS9e0wCQJo)
+- [Interview Best Doctoral Tesis Prize Universidad Politécnica de Madrid (03.24)](https://www.upm.es/UPM/SalaPrensa/Noticias?fmt=detail&id=CON11967&prefmt=articulo)
+- [Local Newspaper Germany. Heilbronner Stimme. Quantum Computing (06.24)](https://www.profh4.com/download/202406_kommt-nach-dem-ki-park-auch-der-quantencomputer-in-die-region-heilbronn-stimme.de.pdf)
+- [Local Newspaper Germany. Heilbronner Stimme. Exzellenz Rückkehr (10.24)](https://www.stimme.de/heilbronn/stadt-heilbronn/professor-zu-sinkendem-niveau-brauchen-eine-rueckkehr-zu-einer-kultur-der-exzellenz-art-4972499)
+- [Local TV Germany. L-TV. Frederick Tag (10.24)](https://www.l-tv.de/mediathek/63941/Heilbronn_Landesweite_Leseaktion_laeuft.html)
+- [Volkshochschule Schwäbisch Hall. Brain Hacking (11.24)](https://www.profh4.com/download/20241017_brainhacking.pdf)
+- [HHN-Bildungscampus. Rhein-Neckar Zeitung. Brain Hacking (12.24)](https://www.profh4.com/download/20241212_rhein_neckar_zeitung_brain_hacking.pdf)
+- [Local TV Germany. L-TV. Brain Hacking (12.24)](https://www.l-tv.de/mediathek/64103/Heilbronn_Kuenstliche_Intelligenz_birgt_Risiken.html)
+- [Heilbronner Stimme. Quantum Computing ein Meilenstein. (12.24)](https://www.profh4.com/download/20241219_quantum-computing-heilbronn.pdf)
+- [HHN. Deep Learning by Hand (04.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/vorlesungsreihe-deep-learning-by-hand)
+- [HHN. Sex and Math (06.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/business-intelligence-kurs)
+- [HHN. Kinder? Ja / Nein. (06.25)](https://www.hs-heilbronn.de/de/blog-fakultaet-wirtschaft/mathematik-vorlesung-cart-entscheidungsbaeume-verstehen)
+- [Heilbronner Stimme. Quantum Computing und Medizintechnik. (06.25)](https://www.profh4.com/download/20250625_quantum-computing-heilbronn.pdf)
+- [HHN. Warum Einstein für das Quanteninternet entscheidend bleibt (01.26)](https://www.hs-heilbronn.de/de/blog-or-warum-einstein-fuer-das-quanteninternet-entscheidend-bleibt-cddab1ac2e7ccc3b)
+- [Madrid+d. Internet cuántico fiable (01.26)](https://www.madrimasd.org/notiweb/noticias/internet-cuantico-fiable-en-un-mundo-en-movimiento)
+
+## Feats
+
+- [Best Doctoral Thesis (01.18)](https://www.escuelaindustrialesupm.com/etsii-upm/javier-villalba-diez-recibe-el-premio-extraordinario-de-tesis-doctoral-por-la-universidad-politecnica-de-madrid/)
+- Chess ELO 2090 (10.18)
+- [Public Awards](https://www.youtube.com/playlist?list=PLJxGBaypD2P3cDnuBBHKjhZG7w2EFfPmd)
+- [Best Doctoral Thesis (01.24)](https://youtu.be/lznCqRtA6TE?feature=shared&t=5905)
+
+## Art
+
+- [Lean Manga](https://www.slideshare.net/Javier_Villalba_Diez/)
+- [Music](https://www.youtube.com/playlist?list=PLJxGBaypD2P0fNF-UyInvA2stHUF1uvKj)
+- [Drawings](https://photos.app.goo.gl/uLT1bMATQVg7WftT8)
