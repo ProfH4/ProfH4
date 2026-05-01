@@ -24,7 +24,7 @@
 
 ## About
 
-Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez is a Forschungsprofessor for Quantum Computing: Mathematical Physics of Information Processing in High-Performance Computing. His work develops geometrical and topological models for quantum and hybrid-accelerated high-performance computing, with a particular focus on identifying the mathematical structures that determine the limits, robustness, complexity, and efficiency of computation.
+Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez is a **Forschungsprofessor for Quantum Computing: Mathematical Physics of Information Processing in High-Performance Computing**. His work develops geometrical and topological models for quantum and hybrid-accelerated high-performance computing, with a particular focus on identifying the mathematical structures that determine the limits, robustness, complexity, and efficiency of computation.
 
 He holds the rare distinction of having completed two PhDs at the Universidad Politécnica de Madrid, both awarded for excellence as the best doctoral theses in their respective fields. His first PhD in Engineering, Economics, and Organizational Innovation focused on Strategic Organizational Design, while his second PhD in Quantum Computational Applications for Industry 4.0 positioned his research at the intersection of quantum computing, advanced industrial systems, and future-ready digital technologies.
 
