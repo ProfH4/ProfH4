@@ -24,13 +24,17 @@
 
 ## About
 
-Dr. Javier Villalba-Diez is a distinguished expert with the unique accomplishment of holding two PhDs from the Universidad Politécnica de Madrid (UPM)—both awarded for excellence as the best doctoral theses in their fields. His first PhD in Engineering, Economics, and Organizational Innovation (2016) focuses on Strategic Organizational Design, while his second PhD in Quantum Computational Applications for Industry 4.0 (2022) underscores his cutting-edge expertise in future-ready technologies.
+Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez is a Forschungsprofessor for Quantum Computing: Mathematical Physics of Information Processing in High-Performance Computing. His work develops geometrical and topological models for quantum and hybrid-accelerated high-performance computing, with a particular focus on identifying the mathematical structures that determine the limits, robustness, complexity, and efficiency of computation.
 
-Driven by a mission to empower individuals and organizations to achieve strategic goals while building trust, Dr. Villalba-Diez is a Mechanical Engineer from Technische Universität München and an Industrial Engineer from UPM (2003). Over the past 20 years, he has served as a professor, consultant, and production manager in German, American, and Japanese manufacturing environments, applying his deep technical and strategic knowledge to real-world challenges.
+He holds the rare distinction of having completed two PhDs at the Universidad Politécnica de Madrid, both awarded for excellence as the best doctoral theses in their respective fields. His first PhD in Engineering, Economics, and Organizational Innovation focused on Strategic Organizational Design, while his second PhD in Quantum Computational Applications for Industry 4.0 positioned his research at the intersection of quantum computing, advanced industrial systems, and future-ready digital technologies.
 
-His research interests span transformative areas such as Quantum Computing, Deep Learning, Hoshin Kanri, Strategic Organizational Design, and Business AI. Dr. Villalba-Diez’s work takes him around the globe, collaborating with companies and visiting hundreds of factories to test innovative ideas and share valuable insights.
+Driven by the question of which geometrical invariants define the boundaries of computation, Prof. Villalba-Diez translates abstract mathematical concepts into scalable computational building blocks and prototypical cyber-physical applications. His research combines quantum computing, mathematical physics, high-performance computing, artificial intelligence, and industrial digitalization, bridging rigorous theoretical foundations with applied technological implementation in cooperation with industrial and academic partners.
 
-With his dual PhDs and extensive global experience, he continues to push the boundaries of industry and technology, dividing his time between Germany, the USA, Japan, and Spain.
+Alongside his research, he brings more than 20 years of international experience as a professor, consultant, and production manager in German, American, and Japanese manufacturing environments. As a Mechanical Engineer from Technische Universität München and an Industrial Engineer from UPM, he combines deep engineering expertise with strategic organizational thinking and advanced computational research.
+
+His teaching focuses on Digitalization Strategy, Industry 5.0, Applied Mathematics, Artificial Intelligence, and Quantum Computing. His broader academic and professional mission is to empower individuals and organizations to achieve strategic goals while building trust, resilience, and technological capability.
+
+Through his dual doctoral background, habilitation, international industrial experience, and current role as Forschungsprofessor, Prof. Villalba-Diez continues to advance the frontier between mathematical theory, quantum computation, and scalable industrial application.
 
 ## Current Projects
 
