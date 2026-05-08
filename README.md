@@ -173,6 +173,8 @@ Through his dual doctoral background, habilitation, international industrial exp
 - [Heilbronner Stimme. Quantum Computing und Medizintechnik. (06.25)](https://www.profh4.com/download/20250625_quantum-computing-heilbronn.pdf)
 - [HHN. Warum Einstein für das Quanteninternet entscheidend bleibt (01.26)](https://www.hs-heilbronn.de/de/blog-or-warum-einstein-fuer-das-quanteninternet-entscheidend-bleibt-cddab1ac2e7ccc3b)
 - [Madrid+d. Internet cuántico fiable (01.26)](https://www.madrimasd.org/notiweb/noticias/internet-cuantico-fiable-en-un-mundo-en-movimiento)
+- [HHN Wissenschaftspreis der Thomas Gessmann-Stiftung für herausragende Forschung - Pressemitteilung (05.26)](https://nachrichten.idw-online.de/2026/05/06/gewinner-innen-der-hhn-wissenschaftspreise-2026)
+- [HHN Wissenschaftspreis der Thomas Gessmann-Stiftung für herausragende Forschung - Video (05.26)](https://www.youtube.com/watch?v=AWPIqYdBvHA)
 
 ## Feats
 
