@@ -175,6 +175,7 @@ Through his dual doctoral background, habilitation, international industrial exp
 - [Madrid+d. Internet cuántico fiable (01.26)](https://www.madrimasd.org/notiweb/noticias/internet-cuantico-fiable-en-un-mundo-en-movimiento)
 - [HHN Wissenschaftspreis der Thomas Gessmann-Stiftung für herausragende Forschung - Pressemitteilung (05.26)](https://nachrichten.idw-online.de/2026/05/06/gewinner-innen-der-hhn-wissenschaftspreise-2026)
 - [HHN Wissenschaftspreis der Thomas Gessmann-Stiftung für herausragende Forschung - Video (05.26)](https://www.youtube.com/watch?v=AWPIqYdBvHA)
+- [Heilbronner Stimme Auszeichnung für Wissenschaftliche Glanzlichter (05.26)](https://profh4.com/download/20260515_auszeichnungen_fur_wissenschaftliche_glanzlichter.pdf)
 
 ## Feats
 
