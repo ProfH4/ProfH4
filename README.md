@@ -49,6 +49,7 @@ Through his dual doctoral background, habilitation, international industrial exp
 
 ### 2026
 
+- Villalba-Díez, J., Losada-González, J.C. Exploiting quantum chaos diagnostics in QAOA for enhanced hybrid quantum classical deep learning classification. Sci Rep 16, 15744 (2026). [https://doi.org/10.1038/s41598-026-51870-8](https://doi.org/10.1038/s41598-026-51870-8)
 - Gish, C., Villalba-Diez, J. & Ordieres-Mere, J. A Brain-Inspired Model for Efficient Graph Learning in Human Cyber Physical Networks. Cogn Comput 18, 35 (2026). [https://doi.org/10.1007/s12559-026-10574-x](https://doi.org/10.1007/s12559-026-10574-x)
 - Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordieres-Meré, J. (2026) Squid–transmon quantum hardware simulation with deep learning for pancreatic radiotherapy image classification. Quantum Inf Process 25, 138. [https://doi.org/10.1007/s11128-026-05144-x](https://doi.org/10.1007/s11128-026-05144-x)
 - Villalba-Díez, J., Nuber, C., Ordieres-Meré, J. (2026) Curvature-coupled triangulated relativistic quantum computation: entanglement equilibrium, geometry registers, and discrete curvature-response relations. *Quantum Studies: Mathematics Foundations* 13, 21. [https://doi.org/10.1007/s40509-026-00396-9](https://doi.org/10.1007/s40509-026-00396-9)
