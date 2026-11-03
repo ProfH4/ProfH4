@@ -24,17 +24,17 @@
 
 ## About
 
-Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez is a **Forschungsprofessor for Quantum Computing: Mathematical Physics of Information Processing in High-Performance Computing**. His work develops geometrical and topological models for quantum and hybrid-accelerated high-performance computing, with a particular focus on identifying the mathematical structures that determine the limits, robustness, complexity, and efficiency of computation.
+Prof. Dr.-Ing. Dr.-Ing. habil. Javier Villalba-Diez (H4) ist Forschungsprofessor für Quantencomputing: Mathematische Physik der Informationsverarbeitung im Hochleistungsrechnen. Seine Arbeit entwickelt geometrische und topologische Modelle für das Quantencomputing und das hybridbeschleunigte Hochleistungsrechnen, mit einem besonderen Schwerpunkt auf der Identifizierung der mathematischen Strukturen, die die Grenzen, Robustheit, Komplexität und Effizienz der Berechnung bestimmen.
 
-He holds the rare distinction of having completed two PhDs at the Universidad Politécnica de Madrid, both awarded for excellence as the best doctoral theses in their respective fields. His first PhD in Engineering, Economics, and Organizational Innovation focused on Strategic Organizational Design, while his second PhD in Quantum Computational Applications for Industry 4.0 positioned his research at the intersection of quantum computing, advanced industrial systems, and future-ready digital technologies.
+Er verfügt über die seltene Auszeichnung, zwei Promotionen an der Universidad Politécnica de Madrid (UPM) abgeschlossen zu haben, die beide für ihre Exzellenz als beste Dissertationen in ihren jeweiligen Fachgebieten ausgezeichnet wurden. Seine erste Promotion in Ingenieurwissenschaften, Wirtschaftswissenschaften und organisatorischer Innovation konzentrierte sich auf strategische Organisationsgestaltung, während seine zweite Promotion in Quantencomputing-Anwendungen für Industrie 4.0 seine Forschung an der Schnittstelle zwischen Quantencomputing, fortschrittlichen industriellen Systemen und zukunftsfähigen digitalen Technologien positionierte.
 
-Driven by the question of which geometrical invariants define the boundaries of computation, Prof. Villalba-Diez translates abstract mathematical concepts into scalable computational building blocks and prototypical cyber-physical applications. His research combines quantum computing, mathematical physics, high-performance computing, artificial intelligence, and industrial digitalization, bridging rigorous theoretical foundations with applied technological implementation in cooperation with industrial and academic partners.
+Angetrieben von der Frage, welche geometrischen Invarianten die Grenzen der Berechnung definieren, überträgt H4 abstrakte mathematische Konzepte in skalierbare rechnerische Bausteine und prototypische cyber-physische Anwendungen. Seine Forschung verbindet Quantencomputing, mathematische Physik, Hochleistungsrechnen, künstliche Intelligenz und industrielle Digitalisierung und schlägt eine Brücke zwischen rigorosen theoretischen Grundlagen und angewandter technologischer Umsetzung in Zusammenarbeit mit industriellen und akademischen Partnern.
 
-Alongside his research, he brings more than 20 years of international experience as a professor, consultant, and production manager in German, American, and Japanese manufacturing environments. As a Mechanical Engineer from Technische Universität München and an Industrial Engineer from UPM, he combines deep engineering expertise with strategic organizational thinking and advanced computational research.
+Neben seiner Forschung bringt er mehr als 20 Jahre internationale Erfahrung als Professor, Berater und Produktionsmanager in deutschen, amerikanischen und japanischen Fertigungsumgebungen mit. Als Maschinenbauingenieur der Technischen Universität München und Wirtschaftsingenieur der UPM verbindet er fundierte ingenieurwissenschaftliche Expertise mit strategischem Organisationsdenken und fortgeschrittener computergestützter Forschung.
 
-His teaching focuses on Digitalization Strategy, Industry 5.0, Applied Mathematics, Artificial Intelligence, and Quantum Computing. His broader academic and professional mission is to empower individuals and organizations to achieve strategic goals while building trust, resilience, and technological capability.
+Seine Lehre konzentriert sich auf Digitalisierungsstrategie, Industrie 5.0, angewandte Mathematik, künstliche Intelligenz und Quantencomputing. Seine übergeordnete akademische und berufliche Mission besteht darin, Einzelpersonen und Organisationen zu befähigen, strategische Ziele zu erreichen und gleichzeitig Vertrauen, Resilienz und technologische Kompetenz aufzubauen.
 
-Through his dual doctoral background, habilitation, international industrial experience, and current role as Forschungsprofessor, Prof. Villalba-Diez continues to advance the frontier between mathematical theory, quantum computation, and scalable industrial application.
+Durch seinen doppelten Promotionshintergrund, seine Habilitation, seine internationale Industrieerfahrung und seine derzeitige Tätigkeit als Forschungsprofessor entwickelt H4 die Grenzen zwischen mathematischer Theorie, Quantenberechnung und skalierbarer industrieller Anwendung kontinuierlich weiter.
 
 ## Current Projects
 
@@ -49,6 +49,10 @@ Through his dual doctoral background, habilitation, international industrial exp
 
 ### 2026
 
+- Buss, Andreas, Henrik Oppenländer, Jannis Lang, and Javier Villalba-Diez. “Klassifikation von Netzwerktopologien mithilfe von Deep Learning in Bezug auf IIoT.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 72–82. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+- Diefenbacher, Alexander, Robin Misia, and Javier Villalba-Diez. “Quantum AI – Quantum-inspirierte Stimmerkennung.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 89–97. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+- Freese, Isabella, Marcel Koch, Seline Löwe, and Javier Villalba-Diez. “Optimizing Industrial Production Processes Through AI-Based Anomaly Detection – An Investigation of Selected AI Methods.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 98–109. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+DOCTORAL THESIS. SUMMA CUM LAUDE. Sterkenburgh, T. (2026). Advanced biomechanics, monitoring, and management in equine veterinary and dental care (Unpublished doctoral thesis). Industriales, Universidad Politécnica de Madrid. [https://doi.org/10.20868/UPM.thesis.96093](https://doi.org/10.20868/UPM.thesis.96093)
 - Villalba-Díez, J., Losada-González, J.C. Exploiting quantum chaos diagnostics in QAOA for enhanced hybrid quantum classical deep learning classification. Sci Rep 16, 15744 (2026). [https://doi.org/10.1038/s41598-026-51870-8](https://doi.org/10.1038/s41598-026-51870-8)
 - Gish, C., Villalba-Diez, J. & Ordieres-Mere, J. A Brain-Inspired Model for Efficient Graph Learning in Human Cyber Physical Networks. Cogn Comput 18, 35 (2026). [https://doi.org/10.1007/s12559-026-10574-x](https://doi.org/10.1007/s12559-026-10574-x)
 - Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordieres-Meré, J. (2026) Squid–transmon quantum hardware simulation with deep learning for pancreatic radiotherapy image classification. Quantum Inf Process 25, 138. [https://doi.org/10.1007/s11128-026-05144-x](https://doi.org/10.1007/s11128-026-05144-x)
@@ -178,8 +182,9 @@ Through his dual doctoral background, habilitation, international industrial exp
 - [HHN Wissenschaftspreis der Thomas Gessmann-Stiftung für herausragende Forschung - Video (05.26)](https://www.youtube.com/watch?v=AWPIqYdBvHA)
 - [Heilbronner Stimme Auszeichnung für Wissenschaftliche Glanzlichter (05.26)](https://profh4.com/download/20260515_auszeichnungen_fur_wissenschaftliche_glanzlichter.pdf)
 
-## Feats
+## Preise und Auszeichungen
 
+- [HHN Wissenschaftspreis für herausragende anwendungsorientierte Forschung](https://www.hs-heilbronn.de/de/h4-professor-javier-villalba-diez-erhaelt-hhn-wissenschaftspreis-2026-77f92433ee9be217). Ausgezeichnet wurden seine Leistungen zu den mathematisch-physikalischen Grundlagen des Quantum Computing und deren Anwendung in den Bereichen Medizin, Gesundheit und cyber-physischen Systemen.
 - [Best Doctoral Thesis (01.18)](https://www.escuelaindustrialesupm.com/etsii-upm/javier-villalba-diez-recibe-el-premio-extraordinario-de-tesis-doctoral-por-la-universidad-politecnica-de-madrid/)
 - Chess ELO 2090 (10.18)
 - [Public Awards](https://www.youtube.com/playlist?list=PLJxGBaypD2P3cDnuBBHKjhZG7w2EFfPmd)
