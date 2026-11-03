@@ -186,8 +186,6 @@ Durch seinen doppelten Promotionshintergrund, seine Habilitation, seine internat
 
 - [HHN Wissenschaftspreis für herausragende anwendungsorientierte Forschung](https://www.hs-heilbronn.de/de/h4-professor-javier-villalba-diez-erhaelt-hhn-wissenschaftspreis-2026-77f92433ee9be217). Ausgezeichnet wurden seine Leistungen zu den mathematisch-physikalischen Grundlagen des Quantum Computing und deren Anwendung in den Bereichen Medizin, Gesundheit und cyber-physischen Systemen.
 - [Best Doctoral Thesis (01.18)](https://www.escuelaindustrialesupm.com/etsii-upm/javier-villalba-diez-recibe-el-premio-extraordinario-de-tesis-doctoral-por-la-universidad-politecnica-de-madrid/)
-- Chess ELO 2090 (10.18)
-- [Public Awards](https://www.youtube.com/playlist?list=PLJxGBaypD2P3cDnuBBHKjhZG7w2EFfPmd)
 - [Best Doctoral Thesis (01.24)](https://youtu.be/lznCqRtA6TE?feature=shared&t=5905)
 
 ## Art
