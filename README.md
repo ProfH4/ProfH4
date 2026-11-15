@@ -49,6 +49,7 @@ Durch seinen doppelten Promotionshintergrund, seine Habilitation, seine internat
 
 ### 2026
 
+- Villalba-Díez, J., Bello-García, A. & Ordieres-Meré, J. Proton transport and polarization relaxation in H_x–NdNiO_3: literature-constrained reduced models and a recoverability diagnostic. Eur. Phys. J. B 99, 193 (2026). [https://doi.org/10.1140/epjb/s10051-026-01294-0](https://doi.org/10.1140/epjb/s10051-026-01294-0)
 - Buss, Andreas, Henrik Oppenländer, Jannis Lang, and Javier Villalba-Diez. “Klassifikation von Netzwerktopologien mithilfe von Deep Learning in Bezug auf IIoT.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 72–82. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
 - Diefenbacher, Alexander, Robin Misia, and Javier Villalba-Diez. “Quantum AI – Quantum-inspirierte Stimmerkennung.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 89–97. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
 - Freese, Isabella, Marcel Koch, Seline Löwe, and Javier Villalba-Diez. “Optimizing Industrial Production Processes Through AI-Based Anomaly Detection – An Investigation of Selected AI Methods.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 98–109. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
