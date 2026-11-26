@@ -49,7 +49,7 @@ Durch seinen doppelten Promotionshintergrund, seine Habilitation, seine internat
 
 ### 2026
 
-- Villalba-Díez, J., Gish, C., Bello-García, A. et al. Pure-delay benchmarking of finite-register semiclassical backreaction in gTRQC on an octahedral graph. Eur. Phys. J. Plus 141, 1343 (2026). (https://doi.org/10.1140/epjp/s13360-026-08542-3)[https://doi.org/10.1140/epjp/s13360-026-08542-3]
+- Villalba-Díez, J., Gish, C., Bello-García, A. et al. Pure-delay benchmarking of finite-register semiclassical backreaction in gTRQC on an octahedral graph. Eur. Phys. J. Plus 141, 1343 (2026). [https://doi.org/10.1140/epjp/s13360-026-08542-3](https://doi.org/10.1140/epjp/s13360-026-08542-3)
 - Villalba-Díez, J., Bello-García, A. & Ordieres-Meré, J. Proton transport and polarization relaxation in $H_x$–NdNi $O_3$: literature-constrained reduced models and a recoverability diagnostic. Eur. Phys. J. B 99, 193 (2026). [https://doi.org/10.1140/epjb/s10051-026-01294-0](https://doi.org/10.1140/epjb/s10051-026-01294-0)
 - Buss, Andreas, Henrik Oppenländer, Jannis Lang, and Javier Villalba-Diez. “Klassifikation von Netzwerktopologien mithilfe von Deep Learning in Bezug auf IIoT.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 72–82. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
 - Diefenbacher, Alexander, Robin Misia, and Javier Villalba-Diez. “Quantum AI – Quantum-inspirierte Stimmerkennung.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 89–97. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
